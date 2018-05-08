@@ -1,0 +1,16 @@
+{
+    "animals": [
+        {
+            "species": "Hedgehog",
+            "furred": true,
+            "color": "Brown",
+            "size": "small",
+            "feathered": false,
+            "scales": false,
+            "mount": true,
+            "price": 225.00,
+            "quantity": 73,
+            "id": 1
+        }
+    ]
+}
